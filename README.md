@@ -76,7 +76,7 @@ To test event logging:
 Covered in the [contributing document](CONTRIBUTING.md).
 
 ### Gerrit
-We also maintain a mirror of this repository on Gerrit (see above), syncing the code after every release. If you'd rather use Gerrit to send us a patch, you'll need to:
+We also maintain a mirror of this repository on Gerrit (see above), syncing the code after every release. If you would rather use Gerrit to send us a patch, you will need to:
 
 - [Create an SSH key](https://help.github.com/articles/generating-an-ssh-key/)
 - [Create a Wikimedia developer account](https://wikitech.wikimedia.org/wiki/Special:UserLogin/signup)
