@@ -17,7 +17,7 @@ If you have any questions or comments, you can join the #wikimedia-mobile channe
 ## Building and Running
 
 ### Minimum Requirements
-* [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) - The easiest way to get Xcode is from the [App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12), but you can also download it from [developer.apple.com](https://developer.apple.com/) if you have an AppleID registered with an Apple Developer account.
+* [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) - The easiest way to get Xcode is from the [App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12). Alteratively, you can download Xcode from [developer.apple.com](https://developer.apple.com/) if you have an AppleID registered with an Apple Developer account.
 
 **Run `scripts/setup` before building & running in Xcode to install all of the required dependencies. This may take a while as it will also compile any code dependencies.**
 
