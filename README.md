@@ -12,7 +12,7 @@ The official Wikipedia iOS client.
 
 ## Development Team
 The app is primarily being developed by the Wikimedia Foundation's [Mobile Apps team](https://www.mediawiki.org/wiki/Wikimedia_Apps/Team). This README provides high-level guidelines for getting started with the project. 
-If you have any questions or comments, you can join the #wikimedia-mobile channel on the Freenode IRC server and talk to us during Eastern and Pacific business hours. We'll also gladly accept any tickets filed against the [project in Phabricator](https://phabricator.wikimedia.org/project/view/782/).
+If you have any questions or comments, you can join the #wikimedia-mobile channel on the Freenode IRC server and talk to us during Eastern and Pacific business hours. We will also gladly accept any tickets filed against the [project in Phabricator](https://phabricator.wikimedia.org/project/view/782/).
 
 ## Building and Running
 
