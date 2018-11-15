@@ -4,8 +4,8 @@ The official Wikipedia iOS client.
 [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/wikimedia/wikipedia-ios/develop/LICENSE.txt)
 
 * License: MIT License
-* Source repo: https://github.com/wikimedia/wikipedia-ios
 * Code review: https://github.com/wikimedia/wikipedia-ios
+* Source repo: https://github.com/wikimedia/wikipedia-ios
 * Planning (bugs & features): https://phabricator.wikimedia.org/project/view/782/
 * IRC chat: #wikimedia-ios on irc.freenode.net
 * Team page: https://www.mediawiki.org/wiki/Wikimedia_Apps/Team/iOS
